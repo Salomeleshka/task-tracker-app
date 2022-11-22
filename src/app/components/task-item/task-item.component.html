@@ -1,0 +1,14 @@
+<div class="task">
+  <h3>
+    {{ task.text }}
+    <span
+      (click)="onDelete(task)"
+      class="material-symbols-rounded"
+      [ngStyle]="{ color: 'red' }"
+    >
+      close
+    </span>
+  </h3>
+
+  <p>{{ task.day }}</p>
+</div>
