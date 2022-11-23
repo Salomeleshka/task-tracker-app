@@ -1,3 +1,10 @@
+The App: 
+![Screenshot 2022-11-23 at 16 24 24](https://user-images.githubusercontent.com/95755981/203584148-9eef4c26-137a-4a94-b4eb-8ba862252bda.png)
+
+JSON Server:
+![Screenshot 2022-11-23 at 16 25 09](https://user-images.githubusercontent.com/95755981/203584260-abd87ae6-8627-4bae-954a-8cf4f08fee98.png)
+
+
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
